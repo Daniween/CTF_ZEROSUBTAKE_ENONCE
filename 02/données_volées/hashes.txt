@@ -1,0 +1,4 @@
+# format : user:hash
+alice:5f4dcc3b5aa765d61d8327deb882cf99
+bob:7c6a180b36896a0a8c02787eeafb0e4c
+zerosub:0d107d09f5bbe40cade3de5c71e9e9b7

@@ -1,0 +1,2 @@
+J'ai testé le blog en local sur http://localhost:8080/zeroblog
+C'est bourré de failles mais ça marche.
