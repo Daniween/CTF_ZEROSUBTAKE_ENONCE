@@ -1,26 +1,26 @@
-\## Vous êtes l’équipe cybersécurité de la société ZeroTech.
+## Vous êtes l’équipe cybersécurité de la société ZeroTech.
 
 
 
-\### Des activités suspectes ont été détectées sur le réseau interne.
+### Des activités suspectes ont été détectées sur le réseau interne.
 
-\### Un pseudonyme apparait dans les journaux : ZeroSubTake.
-
-
-
-\## Votre mission :
+### Un pseudonyme apparait dans les journaux : ZeroSubTake.
 
 
 
-\### ZeroSubTake est un stagiaire très maladroit dans la boite et il a compromis l’entreprise.
+## Votre mission :
 
 
 
-\### Découvrir les informations qu’il a exfiltrées.
+### ZeroSubTake est un stagiaire très maladroit dans la boite et il a compromis l’entreprise.
 
 
 
-\### Trouver et identifier l'ampleur les failles une à une.
+### Découvrir les informations qu’il a exfiltrées.
+
+
+
+### Trouver et identifier l'ampleur les failles une à une.
 
 
 
