@@ -24,5 +24,5 @@
 
 
 
-\### Chaque étape vous donne un FLAG{...}.
+### Chaque étape vous donne un FLAG{...}.
 
